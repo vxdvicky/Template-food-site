@@ -1,6 +1,7 @@
 # MyOnlineMeal — Responsive Food Delivery Template
 
 [Live Demo](https://template-food-site.vercel.app/)  (Click Here👈)
+
 A modern, responsive HTML/CSS/JS template for food delivery or catering services. Designed with a clean layout, mobile-first approach, and smooth user experience. Perfect for showcasing services, clients, and contact functionality.
 
 ---
